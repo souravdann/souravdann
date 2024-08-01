@@ -1,4 +1,4 @@
-!(![image](https://github.com/user-attachments/assets/b650345e-0248-474e-ae6f-f0869bf022fd))
+![image](https://github.com/user-attachments/assets/b650345e-0248-474e-ae6f-f0869bf022fd)
 ## 🚀 About Me
 I am a Data Analyst with a passion for turning data into actionable insights. 
 
