@@ -1,5 +1,4 @@
-![Uploading]([https://www.canva.com/design/DAGMm1y9zGo/l5RUALk_XoXLtISULsgg7w/edit?utm_content=DAGMm1y9zGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton])
-
+!(![image](https://github.com/user-attachments/assets/b650345e-0248-474e-ae6f-f0869bf022fd))
 ## 🚀 About Me
 I am a Data Analyst with a passion for turning data into actionable insights. 
 
@@ -12,7 +11,7 @@ I am a Data Analyst with a passion for turning data into actionable insights.
 - ![Numpy](https://img.icons8.com/color/48/000000/numpy.png) **Numpy**
 - ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) **Power BI**
 - ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) **VS Code**
-- ![Jupyter Notebook](https://img.icons8.com/color/48/000000/jupyter.png) **Jupyter Notebook**
+- ![Jupyter Notebook](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/66px-Jupyter_logo.svg.png) **Jupyter Notebook**
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/sourav-dan-90117324a/)
