@@ -1,6 +1,4 @@
-# Hi there, I'm Sourav Dan! 👋
-
-![Welcome GIF](https://www.canva.com/design/DAGMm1y9zGo/5yUT4mVYsLfO6MDwWQ5fMw/watch?utm_content=DAGMm1y9zGo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+https://github.com/user-attachments/assets/eb5987e6-99bc-42ec-9341-cd53a8f6cf56
 
 ## 🚀 About Me
 I am a Data Analyst with a passion for turning data into actionable insights. 
@@ -21,7 +19,7 @@ I am a Data Analyst with a passion for turning data into actionable insights.
 - [Email](souravdan2023@gmail.com)
 
 ## 🌐 Find me around the web
-- [WhatsApp](http://wa.me/+919679925992)
+- [WhatsApp](http://wa.me/+916296336002)
 - [GitHub](https://github.com/souravdann)
 
 ---
