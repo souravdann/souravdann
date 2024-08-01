@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/eb5987e6-99bc-42ec-9341-cd53a8f6cf56
+![Uploading]([https://www.canva.com/design/DAGMm1y9zGo/l5RUALk_XoXLtISULsgg7w/edit?utm_content=DAGMm1y9zGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton])
 
 ## 🚀 About Me
 I am a Data Analyst with a passion for turning data into actionable insights. 
