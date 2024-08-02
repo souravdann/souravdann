@@ -1,26 +1,31 @@
-![image](https://github.com/user-attachments/assets/b650345e-0248-474e-ae6f-f0869bf022fd)
-## 🚀 About Me
-I am a Data Analyst with a passion for turning data into actionable insights. 
 
-## 🛠 Skills
+<h1 align="center">Hi 👋, I’m Sourav Dan</h1>
+- 👀A dedicated and detail-oriented Data Analyst with a passion for turning complex data into actionable insights. , I specialize in statistical analysis, data modeling, and data visualisation.
 
-- ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) **MySQL**
-- ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**
-- ![MS Excel](https://img.icons8.com/color/48/000000/ms-excel.png) **MS Excel**
-- ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) **Pandas**
-- ![Numpy](https://img.icons8.com/color/48/000000/numpy.png) **Numpy**
-- ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) **Power BI**
-- ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) **VS Code**
-- ![Jupyter Notebook](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/66px-Jupyter_logo.svg.png) **Jupyter Notebook**
+- 🌱 I’m currently learning Data Analysis
+- 📫 How to reach me: souravdan2023@gmail.com
+  
+![Sourav Dan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ersaurabhkumar&show_icons=true&theme=dark)
 
-## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/sourav-dan-90117324a/)
-- [Email](souravdan2023@gmail.com)
+<h1 align="center">  
+Connect with me:
+<div id="badges">
+  <a href="https://github.com/souravdann">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@IamSubhaDan">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+   <a href="https://www.instagram.com/souravdann/">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   <a href="https://twitter.com/SouravDann">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+</h1>
 
-## 🌐 Find me around the web
-- [WhatsApp](http://wa.me/+916296336002)
-- [GitHub](https://github.com/souravdann)
 
----
 
-✨ Thank you for visiting my GitHub profile! ✨
+
+<br>
