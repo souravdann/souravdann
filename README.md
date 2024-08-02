@@ -1,4 +1,7 @@
-
+<h2>Data Analytics</h2>
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Data Analytics GIF">
+</p>
 <h1 align="center">Hi 👋, I’m Sourav Dan</h1>
 - 👀A dedicated and detail-oriented Data Analyst with a passion for turning complex data into actionable insights. , I specialize in statistical analysis, data modeling, and data visualisation.
 
