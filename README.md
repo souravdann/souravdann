@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning Data Analysis
 - 📫 How to reach me: souravdan2023@gmail.com
-  
-![Sourav Dan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ersaurabhkumar&show_icons=true&theme=dark)
 
 <h1 align="center">  
 Connect with me:
