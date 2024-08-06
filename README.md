@@ -24,6 +24,22 @@ Connect with me:
   </a>
 </div>
 </h1>
+# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+<div align="left">
+
+| Category        | Skills        |
+|-----------------|---------------|
+| Languages       | <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python"/> |
+| Data Science Skills | <img src="https://img.shields.io/badge/Data%20Visualization-blue?style=for-the-badge&logo=Data%20Visualization"/> <img src="https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=Pandas"/>  <img src="https://img.shields.io/badge/Numpy-darkblue?style=for-the-badge&logo=Numpy%20"/>  <img src="https://img.shields.io/badge/Seaborn-skyblue?style=for-the-badge&logo=Seaborn"/>  <img src="https://img.shields.io/badge/Matplotlib-yellow?style=for-the-badge&logo=Matplotlib"/>  <img src="https://img.shields.io/badge/POWER%20BI-black?style=for-the-badge&logo=POWER%20BI"/> |
+| Database | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
+| Competitive Coding | <a href="https://www.hackerrank.com/profile/khus_ks06"><img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=HackerRank"/> </a> |
+| IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> <img src="https://img.shields.io/badge/Anaconda-green?style=for-the-badge&logo=Anaconda" /> <img src="https://img.shields.io/badge/Jupyter%20Notebook-orange?style=for-the-badge&logo=Jupyter%20Notebook" /><img src="https://img.shields.io/badge/Google%20Colab-white?style=for-the-badge&logo=Google%20Colab" /> <img src="https://img.shields.io/badge/Pycharm-black?style=for-the-badge&logo=Pycharm" />|
+| Soft Skills | <a href="https://img.shields.io/badge/Presentation-blue?style=for-the-badge&logo=Presentation"> <img src="https://img.shields.io/badge/StoryTelling-black?style=for-the-badge&logo=StoryTelling" /> <img src="https://img.shields.io/badge/collaborate-yellow?style=for-the-badge&logo=Collaborate" /> <img src="https://img.shields.io/badge/communication%20Skills-black?style=for-the-badge&logo=Communication%20Skills" /><img src="https://img.shields.io/badge/Interpersonal%20Skills-green?style=for-the-badge&logo=Interpersonal%20Skills" />|
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+####
 
 
 
